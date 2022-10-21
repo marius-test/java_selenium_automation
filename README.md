@@ -1,4 +1,4 @@
-# java_selenium_tutorial
+# java_selenium
 
 **DISCLAIMER:** I take no credit for writing this program, I followed instructions and edited code.
 
