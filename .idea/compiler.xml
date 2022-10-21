@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java_selenium_tutorial" />
+        <module name="java_selenium_automation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java_selenium_tutorial" target="1.8" />
+      <module name="java_selenium_automation" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
