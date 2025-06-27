@@ -12,4 +12,4 @@ It was created by following the tutorial *IntelliJ for Test Automation Engineers
 - ChromeDriver - WebDriver binary for Chrome  
 - IntelliJ IDEA - Development environment (from the tutorial source)
 
-> **Disclaimer:** This project is based on a tutorial. I followed the instructions and made some edits.
+> **Disclaimer:** This project is based on a tutorial. I followed the instructions and made edits.
