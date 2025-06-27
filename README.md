@@ -4,8 +4,9 @@ This project demonstrates Selenium automation in Java based on the *IntelliJ for
 
 > Disclaimer: This project follows the tutorial closely, with some edits.
 
-## Prerequisites
-- Java 11+
-- Maven
+## Tech Stack
+- Java
 - Selenium WebDriver
+- JUnit
+- Maven
 - ChromeDriver
