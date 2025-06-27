@@ -7,9 +7,9 @@ It was created by following the tutorial *IntelliJ for Test Automation Engineers
 
 ## Tech Stack
 
-- Java 11+ – Core language  
-- Selenium WebDriver – Browser automation  
-- JUnit 5 – Testing framework  
-- Maven – Dependency and build management  
-- ChromeDriver – WebDriver binary for Chrome  
-- IntelliJ IDEA – Development environment (from the tutorial source)
+- Java 11+ - Core language  
+- Selenium WebDriver - Browser automation  
+- JUnit 5 - Testing framework  
+- Maven - Dependency and build management  
+- ChromeDriver - WebDriver binary for Chrome  
+- IntelliJ IDEA - Development environment (from the tutorial source)
