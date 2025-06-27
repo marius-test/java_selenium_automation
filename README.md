@@ -5,7 +5,7 @@ It was created by following the tutorial *IntelliJ for Test Automation Engineers
 
 > **Disclaimer:** This project is based on a tutorial. I followed the instructions and made some edits.
 
-## Tech Stack
+### Tech Stack
 
 - Java 11+ - Core language  
 - Selenium WebDriver - Browser automation  
